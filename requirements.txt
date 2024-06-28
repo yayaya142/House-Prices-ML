@@ -7,3 +7,4 @@ matplotlib==3.8.2
 plotly==5.18.0
 pandas-profiling==3.6.6
 pyyaml==5.4.1
+sweetviz-2.3.1
